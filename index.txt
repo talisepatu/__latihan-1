@@ -1,3 +1,0 @@
-Menambahkan File index.txt
-Mengubah File index.txt
-Mengubah kembali file index.txt
